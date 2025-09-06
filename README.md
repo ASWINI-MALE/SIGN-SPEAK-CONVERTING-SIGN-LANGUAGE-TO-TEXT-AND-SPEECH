@@ -35,6 +35,3 @@ We’re just getting started! Future improvements include:
 * **TensorFlow/PyTorch** for deep learning
 * **Tkinter** (or web technologies) for the interface
 
-
-
-Would you like me to also add a **“Getting Started” section** (step-by-step setup guide) so that anyone who visits your GitHub can quickly try out your project on their own system?
